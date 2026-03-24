@@ -8,6 +8,7 @@
   "explorer": "https://etherscan.io/token/0x06cEe1c41DF385CbA9d8A9889eb720f47EF58467",
   "status": "active",
   "id": "0x06cEe1c41DF385CbA9d8A9889eb720f47EF58467",
+  "tags": ["defi"],
   "links": [
     {
       "name": "twitter",
@@ -16,10 +17,6 @@
     {
       "name": "telegram",
       "url": "https://t.me/blnrcoin"
-    },
-    {
-      "name": "instagram",
-      "url": "https://instagram.com/blnrcoin"
     }
   ]
 }
